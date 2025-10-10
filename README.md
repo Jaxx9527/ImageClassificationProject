@@ -3,9 +3,9 @@ ResNet50和ViT結合模型實現影像分類
 
 ## 題目要求
 In this project, you are required to do a classification task on 6 types of objects related to Guangzhou International Campus, SCUT.  
-| | | | | | |
-|:----:|:---:|:----:|:----:|:---:|:----:|
+
 |<img src="./img/1.jpg" width="800" /> |<img src="./img/2.jpg" width="800" /> |<img src="./img/3.jpg" width="800" /> |<img src="./img/4.jpg" width="800" /> |<img src="./img/5.jpg" width="800" /> |<img src="./img/6.jpg" width="800" /> |
+|:----:|:---:|:----:|:----:|:---:|:----:|
 |1|2|3|1|2|3|
 
 
