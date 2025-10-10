@@ -6,7 +6,7 @@ In this project, you are required to do a classification task on 6 types of obje
 
 |<img src="./img/1.jpg" width="800" /> |<img src="./img/2.jpg" width="800" /> |<img src="./img/3.jpg" width="800" /> |<img src="./img/4.jpg" width="800" /> |<img src="./img/5.jpg" width="800" /> |<img src="./img/6.jpg" width="800" /> |
 |:----:|:---:|:----:|:----:|:---:|:----:|
-|1|2|3|1|2|3|
+|Bell tower|Library|School logo|Liyujun mascot|Mingcheng mascot|Junde mascot|
 
 
 Use all the methods and tricks, including you learned in the lectures or from other resources, to train your own model with your own dataset.   
