@@ -1,7 +1,7 @@
 # ImageClassificationProject
 ResNet50和ViT結合模型實現影像分類   
 
-## 題目要求
+## Task
 In this project, you are required to do a classification task on 6 types of objects related to Guangzhou International Campus, SCUT.  
 
 |<img src="./img/1.jpg" width="800" /> |<img src="./img/2.jpg" width="800" /> |<img src="./img/3.jpg" width="800" /> |<img src="./img/4.jpg" width="800" /> |<img src="./img/5.jpg" width="800" /> |<img src="./img/6.jpg" width="800" /> |
@@ -16,8 +16,18 @@ Use all the methods and tricks, including you learned in the lectures or from ot
 3. A project report within 5 pages and an oral presentation with slides should be completed.
    
 總結：需要自己準備資料集後訓練模型，模型及代碼提交給TA獲取準確率結果，一共三次提交機會。
-## 資料集
+## Dataset
 [Download](https://1drv.ms/u/c/585289ea0ef7a626/ETDIBRBdxuBBgQv6jCciBfcBI0CcsItDbxDitjKXL5GvTQ?e=t3P13T)
 
-## 報告
+## Essay
 [View](./Deep%20Learning%20Project%20on%20Image%20Classification%20for%20public.pdf)
+
+## Slides
+[View]()
+
+## Team Member Contribution
+|Teammate|Individual Contributions|
+|---|---|
+|A|Took, collected and annotated approximately 300 images; Drafted  the  initial  Chinese  version  of  the  report,  created presentation slides and the speech script; Making 1 chart for Report; Presented the content using the slides.|
+|B |Conducted preliminary literature review; Developed data preprocessing  scripts  (including  but  not  limited  to  data augmentation and background removal using masks) Built, selected   and   trained   models;   Designed   and   conducted experiments; Made 9 charts for Report; Assisted in refining the  report  and  presentation  slides;  Took  charge  of  the presentation and Q&A session.|
+|C (repository maintainer)|Coded  a  Web  Scrap  for  Sogou;  Took,  collected  and annotated over 1600 photos; Translated, revised and added content to Report; Made 1 chart and 6 formulas for Report; Proofread and added content to PowerPoint; Edited and added content to speech script.|
