@@ -23,7 +23,7 @@ Use all the methods and tricks, including you learned in the lectures or from ot
 [View](./Deep%20Learning%20Project%20on%20Image%20Classification%20for%20public.pdf)
 
 ## Slides
-[View]()
+[View](./Deep%20Learning%20Project%20PowerPoint%20on%20Image%20Classification%20for%20public.pdf)
 
 ## Team Member Contribution
 |Teammate|Individual Contributions|
