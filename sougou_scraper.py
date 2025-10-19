@@ -12,6 +12,14 @@ import numpy as np
 from pywinauto.findwindows import find_window
 from skimage.metrics import structural_similarity as ssim
 
+"""
+运行本脚本前先使用Reqable等抓包软件
+
+本脚本将在搜狗微信文章搜索指定关键字，并依次访问每个结果
+在浏览每篇文章时，通过多次截图对比前后截图相似度来判断图片是否有完全加载完成，加载完成后才会浏览下一篇文章
+"""
+
+
 user_agents = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
