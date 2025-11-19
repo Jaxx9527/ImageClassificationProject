@@ -1,4 +1,4 @@
-# ImageClassificationProject
+# ImageClassification
 ResNet50和ViT結合模型實現影像分類   
 
 ## Task
