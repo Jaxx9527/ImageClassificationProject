@@ -1,5 +1,5 @@
-# ImageClassification
-ResNet50和ViT結合模型實現影像分類   
+# ImageClassificationGZIC
+ResNet50和ViT結合模型實現影像分類for華南理工大學廣州國際校區六類物品   
 
 ## Task
 In this project, you are required to do a classification task on 6 types of objects related to Guangzhou International Campus, SCUT.  
