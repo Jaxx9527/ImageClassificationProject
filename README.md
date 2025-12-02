@@ -23,7 +23,7 @@ Use all the methods and tricks, including you learned in the lectures or from ot
 `train.py`：主訓練腳本  
 `test_script.py`：提交給助教測試用的腳本模板  
 `model_skeleton.py`：模型結構（ResNet50 + ViT）  
-`sougou_scraper.py`：搜狗圖像爬蟲，幫忙蒐集資料
+`sougou_scraper.py`：搜狗圖像爬蟲
 
 ## Essay
 [View](./Deep%20Learning%20Project%20on%20Image%20Classification%20for%20public.pdf)
