@@ -15,7 +15,7 @@ Use all the methods and tricks, including you learned in the lectures or from ot
 2. You should submit your model and test file to TA then obtain a test result. The test set will be kept by the TA in order to avoid possible cheating by directly training the model on the test set. You should submit a test  script with your model to TA then the TA cantest your result. The template of the test script is released with the data examples and you have 3 chances to submit the model. The data in the test set will be similar to the given examples and please validate your test script on the examples first.  
 3. A project report within 5 pages and an oral presentation with slides should be completed.
    
-總結：需要自己準備資料集後訓練模型，模型及代碼提交給TA獲取準確率結果，一共三次提交機會。
+總結：需要自己準備資料集、訓練模型，提交模型及代碼給TA獲取準確率結果，一共三次提交機會。
 ## Dataset
 [Download](https://1drv.ms/u/c/585289ea0ef7a626/ETDIBRBdxuBBgQv6jCciBfcBI0CcsItDbxDitjKXL5GvTQ?e=t3P13T)
 
