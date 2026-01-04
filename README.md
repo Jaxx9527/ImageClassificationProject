@@ -34,6 +34,7 @@ Use all the methods and tricks, including you learned in the lectures or from ot
 ## Team Member Contribution
 |Teammate|Individual Contributions|
 |---|---|
-|A|Took, collected and annotated approximately 300 images; Drafted  the  initial  Chinese  version  of  the  report,  created presentation slides and the speech script; Making 1 chart for Report; Presented the content using the slides.|
-|B |Conducted preliminary literature review; Developed data preprocessing  scripts  (including  but  not  limited  to  data augmentation and background removal using masks) Built, selected   and   trained   models;   Designed   and   conducted experiments; Made 9 charts for Report; Assisted in refining the  report  and  presentation  slides;  Took  charge  of  the presentation and Q&A session.|
-|C (repository maintainer)|Coded  a  Web  Scraper  for  Sogou;  Took,  collected  and annotated over 1600 photos; Translated, revised and added content to Report; Made 1 chart and 6 formulas for Report; Proofread and added content to PowerPoint; Edited and added content to speech script.|
+|A |Conducted preliminary literature review; Developed data preprocessing  scripts  (including  but  not  limited  to  data augmentation and background removal using masks) Built, selected   and   trained   models;   Designed   and   conducted experiments; Made 9 charts for Report; Assisted in refining the  report  and  presentation  slides;  Took  charge  of  the presentation and Q&A session.|
+|B (repository maintainer)|Coded  a  Web  Scraper  for  Sogou;  Took,  collected  and annotated over 1600 photos; Translated, revised and added content to Report; Made 1 chart and 6 formulas for Report; Proofread and added content to PowerPoint; Edited and added content to speech script.|
+|C |Took, collected and annotated approximately 300 images; Drafted  the  initial  Chinese  version  of  the  report,  created presentation slides and the speech script; Making 1 chart for Report; Presented the content using the slides.|
+
