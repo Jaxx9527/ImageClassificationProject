@@ -26,10 +26,10 @@ Use all the methods and tricks, including you learned in the lectures or from ot
 `sougou_scraper.py`：搜狗圖像爬蟲
 
 ## Essay
-[View](./Deep Learning Project on Image Classification(github).pdf)
+[View](./Deep%20Learning%20Project%20on%20Image%20Classification(github).pdf)
 
 ## Slides
-[View](./Deep Learning Project on Image Classification PPT (github).pdf)
+[View](./Deep%20Learning%20Project%20on%20Image%20Classification%20PPT%20(github).pdf)
 
 ## Team Member Contribution
 |Teammate|Individual Contributions|
