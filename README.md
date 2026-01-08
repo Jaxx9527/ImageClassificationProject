@@ -1,6 +1,8 @@
 # ImageClassificationGZIC
-ResNet50和ViT結合模型實現影像分類for華南理工大學廣州國際校區六類物品   
+**ResNet50 + Vision Transformer (ViT) 混合模型實現華南理工大學廣州國際校區 (GZIC) 六類物品影像分類**
 
+使用自建資料集訓練一個結合 ResNet50 和 ViT 的模型，對校園相關六類物品進行影像分類。  
+學生需自行收集資料、訓練模型，並提交測試腳本給助教評分。
 ## Task
 In this project, you are required to do a classification task on 6 types of objects related to Guangzhou International Campus, SCUT.  
 
@@ -17,13 +19,27 @@ Use all the methods and tricks, including you learned in the lectures or from ot
    
 總結：需要自己準備資料集、訓練模型，提交模型及代碼給TA獲取準確率結果，一共三次提交機會。
 ## Dataset
+透過拍攝與爬蟲蒐集  
 [Download](https://1drv.ms/u/c/585289ea0ef7a626/ETDIBRBdxuBBgQv6jCciBfcBI0CcsItDbxDitjKXL5GvTQ?e=t3P13T)
 
+## 模型結構
+混合模型：ResNet50 作為特徵提取器 + Vision Transformer (ViT) 進行分類。
+- 使用轉移學習（pre-trained ResNet50 + ViT）。
+- 資料增強：隨機裁剪、翻轉、顏色抖動等。
+
+
 ## 腳本說明
-`train.py`：主訓練腳本  
-`test_script.py`：提交給助教測試用的腳本模板  
-`model_skeleton.py`：模型結構（ResNet50 + ViT）  
-`sougou_scraper.py`：搜狗圖像爬蟲
+### `train.py`
+主訓練腳本，使用方法： 
+```
+python train.py --data_dir ./dataset --epochs 50 --batch_size 32 --lr 0.001
+```
+### `test_script.py`
+提交給助教測試用的腳本模板
+### `model_skeleton.py`
+模型結構（ResNet50 + ViT）  
+### `sougou_scraper.py`
+搜狗圖像爬蟲
 
 ## Essay
 [View](./Deep%20Learning%20Project%20on%20Image%20Classification(github).pdf)
